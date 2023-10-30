@@ -1,0 +1,9 @@
+{
+    "name?":"",
+    "url?":"",
+    "port?":"",
+    "needAuthorization":false,
+    "username?":"",
+    "password?":"",
+    "sessionId?":""
+}
